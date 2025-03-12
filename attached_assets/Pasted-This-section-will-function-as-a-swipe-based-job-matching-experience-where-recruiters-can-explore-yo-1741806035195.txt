@@ -1,0 +1,76 @@
+This section will function as a swipe-based job-matching experience, where recruiters can explore your profile just like they browse potential matches in Bumble.
+
+The goal is to make hiring engaging and fun—if a recruiter likes what they see, they can swipe right to match and start a conversation. If they swipe left, they'll get a gentle nudge to reconsider.
+
+🎨 UI & Aesthetic
+Inspired by Bumble: Rounded profile cards, swipe animations, bold fonts, and engaging colors
+Primary Colors:
+Background: Soft white (#F7F7F7) for a clean look
+Buttons & Accents: Golden Yellow (#FFBE00) (Bumble’s signature)
+Text & Icons: Dark gray/black (#222222) for readability
+Font Style: Use Bumble's signature "Proxima Nova" or "SF Pro" for a sleek, modern feel
+Smooth Swipe Animation: Cards should slide seamlessly left/right, with a slight tilt effect
+📌 How the Bumble UI Works in Your App
+1️⃣ Swipe-Based Profile Browsing 🎭
+🔹 Users (Recruiters) will see your profile in a centered card.
+🔹 Swipe Right = "It's a Match!" → Opens a chat to connect.
+🔹 Swipe Left = "C’mon, he's worth a chance! At least text." (A playful prompt to reconsider)
+🔹 If a recruiter scrolls down, they see detailed info about you, just like scrolling down on a Bumble profile.
+
+🎨 Design Details:
+✔️ Profile Card: Large, rounded, and centered, taking up ~80% of the screen width
+✔️ Your Name & Title: Bold at the top (e.g., John Doe – Full Stack Developer)
+✔️ Profile Picture: Big, clear, and eye-catching
+✔️ Short Bio: A few key lines about you (e.g., "Building scalable web apps with React & Node.js. Let’s connect!")
+✔️ Skills & Experience: Scroll down to reveal a section listing key skills and past work
+✔️ Action Buttons:
+
+Swipe Right Gesture (Green checkmark, "Hire Me")
+Swipe Left Gesture (Red cross, "Skip")
+2️⃣ Scrolling Down Reveals More Info ⬇️
+If a recruiter doesn’t want to immediately swipe, they can scroll down to see:
+✔️ Tech Stack & Skills (with icons)
+✔️ Portfolio Highlights (mini project previews)
+✔️ Testimonials from past clients or employers
+✔️ Certifications & Achievements
+
+🎨 Design Details:
+✔️ Well-spaced sections with subtle dividers
+✔️ Bullet points & icons for easy readability
+✔️ Clickable links to GitHub, LinkedIn, or personal website
+
+3️⃣ Right Swipe = "It’s a Match!" 💛
+✔️ If a recruiter swipes right, a pop-up animation appears saying “It’s a Match! Start a conversation.”
+✔️ Automatically opens a chat window where they can message you directly.
+
+🎨 Design Details:
+✔️ "It’s a Match!" appears in a yellow pop-up box, centered on the screen
+✔️ Confetti animation for excitement
+✔️ Chat opens instantly
+
+4️⃣ Left Swipe = "C’mon, he’s worth a chance!" 👀
+✔️ If a recruiter swipes left, instead of instantly skipping, a playful message appears:
+
+“C’mon, he’s worth a chance! At least text him.”
+A "Give him a shot" button appears, allowing them to reconsider.
+🎨 Design Details:
+✔️ Lighthearted animation with a winking emoji
+✔️ Soft shake effect on the screen to grab attention
+
+5️⃣ Chat After Matching 💬
+✔️ Once matched, a chat interface opens (like Bumble DMs)
+✔️ Recruiters must send the first message (like Bumble’s women-first messaging rule)
+✔️ If no message is sent in 24 hours, a reminder notification pops up.
+
+🎨 Design Details:
+✔️ Chat bubbles styled like Bumble DMs
+✔️ Typing indicator for real-time feel
+✔️ Profile pic next to each message
+
+✨ Final Experience & Features
+✅ Swipe-based, interactive recruiting
+✅ Scrolling down reveals full profile details
+✅ Swipe Right = Match & Chat
+✅ Swipe Left = Fun reconsideration message
+✅ Engaging, modern UI with smooth animations
+

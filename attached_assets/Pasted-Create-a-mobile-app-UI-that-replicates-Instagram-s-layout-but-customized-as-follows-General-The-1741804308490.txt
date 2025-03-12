@@ -1,0 +1,57 @@
+Create a mobile app UI that replicates Instagram's layout but customized as follows:
+
+🌟 General Theme & Styling:
+Primary Colors: #FFFFFF (Background), #000000 (Text & Icons), #0095F6 (Accent, like Instagram's blue)
+Font: Instagram-style "SF Pro" or "Roboto", Medium for body text, Bold for headings
+Spacing: Consistent padding (10-15px), rounded edges (border-radius: 10px)
+Animations: Smooth transitions (0.3s ease-in-out), subtle shadows
+📌 Navbar (Sticky, Instagram-Like)
+Design: Fixed bottom (mobile), top (desktop), transparent BG with a subtle shadow
+
+Icons (White, evenly spaced, centered):
+
+🏠 Home (Instagram-like feed)
+🔍 Search (Pinterest-style project gallery)
+🎥 Reels (Bumble swipe UI)
+🤖 AI Chat (ChatGPT-style assistant)
+👤 Profile (Instagram-like profile page)
+Active State: Highlighted icon with an underline animation
+
+🏠 Home (Instagram Feed, Personalized)
+Header:
+Left: Logo (Replace with your name in Instagram's font style)
+Right: Icons (DM & Notification Bell)
+Stories Section: Replace stories with a carousel of Resume & Projects
+Feed Layout:
+Posts: Use your images with captions as skills
+Engagement: Likes, Comments, Shares represent skill endorsements
+🔍 Search (Pinterest-Style Project Gallery)
+Grid Layout: 3-column masonry grid (like Pinterest)
+Content: Each tile is a project preview (Image + Title on hover)
+Click Action: Opens a detailed project view
+🎥 Reels (Bumble Swipe UI)
+Main Profile Card (Center, Large, Swipable)
+Left Swipe: Skip
+Right Swipe: "Match" (Connect with you)
+Scrolling Down: Shows interesting facts about you
+Swipe Right Action: Shows “It’s a Match” pop-up
+🤖 AI Chat (Interactive Assistant, ChatGPT Style)
+Interface:
+Large chat bubble UI
+First message: "Hi there! Ask me about [Your Name] or need a therapy session?"
+Users can chat with AI about you or seek advice
+Typing Animation: Blinking dots while responding
+Send Button: Floating action button
+👤 Profile (Instagram-Style)
+Header: Profile Picture (Round, Centered) + Name & Tagline
+Bio Section: Short bio + Key skills
+Grid Below: Projects (Posts Layout)
+Tabs:
+Posts → Personal Projects
+Highlights → Notable Achievements
+💬 Chat (DM with You, Always Open)
+Chat UI: Instagram-like DM chat
+Messages: User can send a message, and it shows "Connecting with [Your Name]"
+✨ Additional Notes
+Fully Responsive (Mobile-First Design)
+Dark Mode Toggle (Optional)

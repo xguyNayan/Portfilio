@@ -1,0 +1,93 @@
+📌 Project Vision: "My Interactive Portfolio App"
+I want to create a personalized mobile UI that feels like a fusion of Instagram, Bumble, and ChatGPT, designed to showcase my skills, projects, and personality in a visually engaging way.
+
+The app should feel like a social media experience, where users can:
+
+Scroll through my portfolio like an Instagram feed
+Explore my work in a Pinterest-style search section
+Swipe through my profile in a Bumble-inspired UI
+Chat with an AI version of me for information or guidance
+Directly connect with me via an Instagram-like chat
+This is not just a portfolio—it's an interactive way for people to experience who I am through familiar social media interactions.
+
+🎨 UI & Aesthetic
+Inspired by: Instagram (Navbar, Feed, Profile), Pinterest (Search Grid), Bumble (Swipe UI), ChatGPT (AI Chat)
+Colors: Clean, modern look with white (#FFFFFF) background, black (#000000) text/icons, and a touch of blue (#0095F6, like Instagram’s accent color)
+Font: Use Instagram’s “SF Pro” or "Roboto" for consistency
+Animations: Smooth page transitions, swipe animations, and tap feedback
+Spacing & Layout: Rounded corners, uniform padding, subtle drop shadows
+📌 App Flow & Sections
+1️⃣ Home (Instagram-Style Feed 📸)
+🟢 What Happens Here?
+
+The app opens exactly like Instagram but personalized.
+Instead of the Instagram logo, display my name in the same style.
+The stories section showcases my resume and projects.
+Feed Layout:
+My personal pictures appear like Instagram posts.
+Captions describe my skills & experience.
+Likes, comments, and shares represent endorsements of my skills.
+🎨 Design Details:
+
+Instagram-style bottom navbar with icons
+Feed with rounded cards, bold text, and subtle shadows
+2️⃣ Search (Pinterest-Style Project Gallery 🔍)
+🟢 What Happens Here?
+
+When a user clicks the search icon, they see a grid layout of my projects.
+Tap on any project to open a detailed view with a description & links.
+🎨 Design Details:
+
+Masonry grid layout (like Pinterest)
+Hover effect on projects for subtle animations
+3️⃣ Reels (Bumble-Style Swipe UI ❤️)
+🟢 What Happens Here?
+
+Instead of Instagram Reels, show a Bumble-style swipe UI.
+My profile appears in a card that users can swipe left or right.
+Swipe Right = “It’s a Match” (Connect with me)
+Scrolling down reveals interesting facts about me.
+🎨 Design Details:
+
+Large, centered profile card with rounded corners
+Swipe left/right animations
+"It's a Match!" pop-up with smooth fade-in animation
+4️⃣ AI Chat (ChatGPT-Style Assistant 🤖)
+🟢 What Happens Here?
+
+When a user clicks on the AI icon, a chat window opens.
+The AI greets them with "Hi there! Ask me about [Your Name] or need a therapy session?"
+Users can:
+Ask about my experience & skills.
+Have a casual chat for advice or motivation.
+🎨 Design Details:
+
+Chat bubbles like ChatGPT
+Blinking dots animation while the AI is typing
+Microphone icon for potential voice input
+5️⃣ Profile (Instagram-Style Layout 👤)
+🟢 What Happens Here?
+
+This section looks exactly like an Instagram profile page.
+It shows my profile picture, bio, skills, and links.
+Tabs:
+Posts (Project showcases)
+Highlights (Achievements, certifications, etc.)
+🎨 Design Details:
+
+Rounded profile picture
+Bold name & tagline
+Grid layout for posts/projects
+💬 Chat (Always Available, DM with Me 📩)
+🟢 What Happens Here?
+
+Users can send messages like Instagram DMs.
+When they message me, it shows "Connecting with [Your Name]"
+🎨 Design Details:
+
+Speech bubbles for messages
+Typing indicator for real-time feel
+✨ Final Touches
+Responsive (Mobile-First UI) 📱
+Dark Mode Toggle 🌙 (Optional)
+Smooth Scroll & Swipe Gestures 👆
